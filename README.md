@@ -1,4 +1,5 @@
-#CREATE AN APPLICATION WHICH CAN BE USED TO SEARCH FOR A STRING IN FILES.
+
+CREATE AN APPLICATION WHICH CAN BE USED TO SEARCH FOR A STRING IN FILES.
 
 Input: The application will receive two command line parameters. The first parameter is a path to a file or folder, while the second parameter is the string to be searched for (maximum length of 128 characters).
 
